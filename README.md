@@ -6,7 +6,7 @@ Fullstack Developer
 
 I've been learning Python for 4 years
 
-* 🌍  I'm based in KhonKaen, Thailand
+* 🌍  I'm based in KhonKaen, Thailand | Study in KKU ,Cyber Sercurity KKU 61
 * 🖥️  See my portfolio at [My Port](http://flukkiewebsite.xyz/)
 * ✉️  You can contact me at [DevelopersExsive@gmail.com](mailto:DevelopersExsive@gmail.com)
 
