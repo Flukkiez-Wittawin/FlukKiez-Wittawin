@@ -1,10 +1,8 @@
 Hi 👋 My name is Wittawin Chadasin
 ==================================
 
-Fullstack Developer
+Fullstack Developer && FiveM Developer
 -------------------
-
-I've been learning Python for 4 years
 
 * 🌍  I'm based in KhonKaen, Thailand | Study in KKU ,Cyber Sercurity KKU 61
 * ✉️  You can contact me at [DevelopersExsive@gmail.com](mailto:DevelopersExsive@gmail.com)
