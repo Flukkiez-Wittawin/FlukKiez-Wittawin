@@ -5,7 +5,7 @@ Fullstack Developer && FiveM Developer
 -------------------
 
 * 🌍  I'm based in KhonKaen, Thailand | Study in KKU ,Cyber Sercurity KKU 61
-* ✉️  You can contact me at [DevelopersExsive@gmail.com](mailto:DevelopersExsive@gmail.com)
+* ✉️  You can contact me at [flkz.developer@gmail.com](mailto:flkz.developer@gmail.com)
 
 ### Skills
 
