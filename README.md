@@ -2,7 +2,6 @@ Hi 👋 My name is Wittawin Chadasin
 ==================================
 
 Fullstack Developer && FiveM Developer
-I'm in ZobyeTeam
 -------------------
 
 * 🌍  I'm based in KhonKaen, Thailand | Study in KKU ,Cyber Sercurity KKU 61
