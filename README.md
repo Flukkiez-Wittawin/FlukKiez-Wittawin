@@ -1,10 +1,16 @@
-![Header](./main.gif)
+<img width='100%' src="./main.gif">
 
 <h1 align="left">My Profile</h1>
 
 ###
 
 <p align="left">My name is Wittawin Chadasin.<br>My nickname is FlukKieZ.<br>I from Thailand, KhonKaen</p>
+
+###
+
+
+  
+
 
 ###
 
